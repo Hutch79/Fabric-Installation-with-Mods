@@ -9,7 +9,7 @@ pause
 echo Bitte wähle nun als Minecraft version die 1.16.4 und belasse den rest wie es ist.
 echo Anschliessend klicke bitte auf Install.
 
-java -jar fabric-installer-0.7.4.jar
+start fabric-installer-0.7.4.exe
 
 cd C:\Users\%USERNAME%\AppData\Roaming\.minecraft
 
